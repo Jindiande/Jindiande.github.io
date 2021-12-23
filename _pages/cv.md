@@ -16,11 +16,11 @@ Education
 
 Work experience
 ======
-* Summer 2020: Research Assistant
+* Sep 2020 - Now: Research Assistant
   * Rutgers University
 
 
-* Summer 2019: Research Intern
+* May 2019 - Aug 2019: Research Intern
   * iFlytek, AI Lab.
   * Duties included: Machine Translation Estimation
 
