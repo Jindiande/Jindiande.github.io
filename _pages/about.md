@@ -21,7 +21,7 @@ Education
 
 Publications
 ======
-* **Unique decomposition of low rank matrices**  
+* **Unique sparse decomposition of low rank matrices**  
 Dian Jin, Xin Bing, Yuqian Zhang  
 ***NeurIPS***, 2021, [arXiv](https://arxiv.org/abs/2106.07736)
 
