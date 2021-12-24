@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.d Student at Rutgers ECE department, fortunately advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). Previously I got my bachelar degree from UUniversity of Electronic Science and Technology of China(UESTC).
+I am a second year Ph.d Student at Rutgers ECE department, fortunately advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). Previously I got my bachelar degree from University of Electronic Science and Technology of China(UESTC).
 My research focus on Sparse Dictionary Learning and Matrix Decomposition.
 
 
