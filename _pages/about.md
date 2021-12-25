@@ -23,7 +23,7 @@ News
 ======
 **Dec 2021**: Finished this semester's TA's work.
 
-**Oct 2021**: Passed my qualify exam. Thanks for my advisor's help! 
+**Oct 2021**: Passed my qualify exam. Thanks for my advisor's time and efforts on my exam! 
 
 **Sep 2021**: Our [paper](https://arxiv.org/abs/2106.07736) got accepted by NeurIPS 2021 poster.
 
