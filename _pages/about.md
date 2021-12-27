@@ -21,6 +21,8 @@ Education
 
 News
 ======
+**Dec 2021**: I will join **FutureWei** as a Research Intern in Summer 22.
+
 **Dec 2021**: Finished this semester's TA's work.
 
 **Oct 2021**: Passed my qualify exam. Thanks for my advisor's time and efforts on my exam! 
