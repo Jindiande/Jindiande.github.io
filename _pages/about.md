@@ -21,7 +21,6 @@ Education
 
 News
 ======
-**Dec 2021**: I will join **FutureWei** as a Research Intern in Summer 2022.
 
 **Dec 2021**: Finished this semester's TA's work.
 
