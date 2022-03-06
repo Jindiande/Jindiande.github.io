@@ -23,7 +23,7 @@ Education
 
 News
 ======
-**Mar 2022**: I will be a research intern at ***Futurewei*** this summer.
+**Mar 2022**: I will join ***Futurewei*** as a research intern this summer.
 
 **Dec 2021**: Finished this semester's TA's work.
 
