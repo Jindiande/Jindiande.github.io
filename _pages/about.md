@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a second year Ph.d Student at Rutgers ECE department, fortunately advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). I also work closely with [Dr. Xin Bing](https://sites.coecis.cornell.edu/xinbing/). Previously I got my bachelar degree from University of Electronic Science and Technology of China(UESTC).
-My research focus on Machine Learning espacially Sparse Dictionary Learning and Matrix Decomposition. 
+My research focus on Machine Learning especially Sparse Dictionary Learning and Matrix Decomposition. 
 
 
 
