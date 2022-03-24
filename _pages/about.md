@@ -34,7 +34,7 @@ Publications
 ======
 * **Unique sparse decomposition of low rank matrices**  
 Dian Jin, Xin Bing, Yuqian Zhang  
-submitted to ***IEEE TIT*** [arXiv](https://arxiv.org/abs/2106.07736)(Shorter version accepted by ***Neurips*** 2021)
+submitted to ***IEEE TIT*** [arXiv](https://arxiv.org/abs/2106.07736). (Shorter version accepted by ***Neurips*** 2021)
 
 
 Work experience
