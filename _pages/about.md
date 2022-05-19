@@ -23,7 +23,7 @@ Education
 
 News
 ======
-**Mar 2022**: I will join ***Futurewei*** as a research intern this summer.
+**Mar 2022**: I will join ***Futurewei(Huawei U.S)*** as a research intern this summer.
 
 **Oct 2021**: Passed my qualify exam. Thanks for my advisor's time and efforts on my exam! 
 
@@ -32,9 +32,9 @@ News
 
 Publications
 ======
-* **Unique sparse decomposition of low rank matrices**  
+* **Unique sparse decomposition of low rank matrices** [arXiv](https://arxiv.org/abs/2106.07736) 
 Dian Jin, Xin Bing, Yuqian Zhang  
-submitted to ***IEEE TIT*** [arXiv](https://arxiv.org/abs/2106.07736). (Shorter version accepted by ***Neurips*** 2021)
+submitted to ***IEEE Transaction of Infomation Theory*** . (Shorter version accepted by ***Neurips*** 2021)
 
 
 Work experience
