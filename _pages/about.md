@@ -41,7 +41,7 @@ Work experience
 ======
 * May 2022 - Now: Research Intern
   * Futurewei, IC Lab
-  * Duties included: Robustness on Graph clustering 
+  * Duties included: Graph clustering Robustness analysis
 
 * Sep 2020 - Now: Research Assistant
   * Rutgers University
