@@ -25,7 +25,7 @@ News
 ======
 **Mar 2022**: I will join ***Futurewei(Huawei U.S)*** as a research intern this summer.
 
-**Oct 2021**: Passed my qualify exam. Thanks for my advisor's time and efforts on my exam! 
+**Oct 2021**: Passed my qualify exam. Thanks for my advisor's help on my exam! 
 
 **Sep 2021**: Our [paper](https://arxiv.org/abs/2106.07736) got accepted by NeurIPS 2021 poster.
 
