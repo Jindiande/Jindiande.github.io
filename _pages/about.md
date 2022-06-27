@@ -40,8 +40,8 @@ Dian Jin, Xin Bing, Yuqian Zhang. Submitted to ***IEEE Transaction of Infomation
 Work experience
 ======
 * May 2022 - Now: Research Intern
-  * Futurewei, IC Lab
-  * Duties included: Graph clustering Robustness analysis
+  * Futurewei, AI research
+  * Duties included: Graph Clustering Robustness Analysis
 
 * Sep 2020 - Now: Research Assistant
   * Rutgers University
