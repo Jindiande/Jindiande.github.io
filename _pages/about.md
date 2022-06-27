@@ -39,9 +39,13 @@ Dian Jin, Xin Bing, Yuqian Zhang. Submitted to ***IEEE Transaction of Infomation
 
 Work experience
 ======
+* May 2022 - Now: Research Intern
+  * Futurewei, IC Lab
+  * Duties included: Robustness on Graph clustering 
+
 * Sep 2020 - Now: Research Assistant
   * Rutgers University
-
+  * Duties included: Sparse Dictionary Learning
 
 * May 2019 - Aug 2019: Research Intern
   * iFlytek, AI Lab.
@@ -49,7 +53,7 @@ Work experience
 
 Contact
 =====
-Email: dj370@scarletmail.rutgers.edu /uestcjd@gmail.com  
+Email: dj370@scarletmail.rutgers.edu / uestcjd@gmail.com  
   
 
 
