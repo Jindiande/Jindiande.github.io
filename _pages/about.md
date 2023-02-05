@@ -39,7 +39,7 @@ Dian Jin, Xin Bing, Yuqian Zhang. ***IEEE Transactions on Information Theory*** 
 
 Work experience
 ======
-* May 2022 - Now: Research Intern
+* May 2022 - Aug 2022: Research Intern
   * Futurewei, AI research
   * Duties included: Graph Clustering Robustness Analysis
 
