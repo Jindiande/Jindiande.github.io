@@ -43,7 +43,7 @@ Dian Jin, Xin Bing, Yuqian Zhang. ***IEEE Transactions on Information Theory*** 
 
 Work experience
 ======
-*June 2023 - Now: Machine Learning Intern
+* June 2023 - Now: Machine Learning Intern
   * Alibaba, Taobao-Mall Group
   * Duties included: Recommendation System
 
