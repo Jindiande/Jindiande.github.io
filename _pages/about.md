@@ -23,9 +23,13 @@ Education
 
 News
 ======
+**Jun 2023**: Start my new position as a Machine Learning intern at ***Alibaba***.
+
+**May 2023**: Submitted a new paper to Neurips 2023.
+
 **Mar 2022**: I will join ***Futurewei(Huawei U.S)*** as a research intern this summer.
 
-**Oct 2021**: Passed my qualify exam. Thanks for my advisor's help on my exam! 
+**Oct 2021**: Passed my qualifying exam. Thanks for my advisor's help on my exam! 
 
 **Sep 2021**: Our [paper](https://arxiv.org/abs/2106.07736) got accepted by NeurIPS 2021 poster.
 
@@ -39,6 +43,10 @@ Dian Jin, Xin Bing, Yuqian Zhang. ***IEEE Transactions on Information Theory*** 
 
 Work experience
 ======
+*June 2023 - Now: Machine Learning Intern
+  * Alibaba, Taobao-Mall Group
+  * Duties included: Recommendation System
+
 * May 2022 - Aug 2022: Research Intern
   * Futurewei, AI research
   * Duties included: Graph Clustering Robustness Analysis
