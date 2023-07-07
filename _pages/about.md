@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.d Student at Rutgers ECE department, fortunately advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). I also work closely with [Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/). Previously I got my bachelar degree from University of Electronic Science and Technology of China(UESTC).
-My research focus on Machine Learning especially Sparse Dictionary Learning and Matrix Decomposition. 
+I am a third-year Ph.d Student at Rutgers ECE department, fortunately advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). I also work closely with [Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/). Previously I got my bachelor's degree from the University of Electronic Science and Technology of China(UESTC).
+My research focuses on the theoretical guarantee for statistical methods of machine learning and optimization problems. I am also interested in its related application in real worlds. 
 
 
 
@@ -19,7 +19,7 @@ My research focus on Machine Learning especially Sparse Dictionary Learning and 
 Education
 ======
 * B.S. in UESTC, 2019
-* Ph.D in Rutgers University, New Brunswick, 2025 (expected)
+* Ph.D in Rutgers University, New Brunswick, 2024 (expected)
 
 News
 ======
@@ -38,14 +38,14 @@ Publications
 ======
 * **Unique sparse decomposition of low rank matrices** [arXiv](https://arxiv.org/abs/2106.07736)
 
-Dian Jin, Xin Bing, Yuqian Zhang. ***IEEE Transactions on Information Theory*** . (Shorter version accepted by ***Neurips*** 2021)
+Dian Jin, Xin Bing, Yuqian Zhang. ***IEEE Transactions on Information Theory***. (Shorter version accepted by ***Neurips*** 2021)
 
 
 Work experience
 ======
 * June 2023 - Now: Machine Learning Intern
   * Alibaba, Taobao-Mall Group
-  * Duties included: Recommendation System
+  * Duties included: Search enhanced recommendation system
 
 * May 2022 - Aug 2022: Research Intern
   * Futurewei, AI research
