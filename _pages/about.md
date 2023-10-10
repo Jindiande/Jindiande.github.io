@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.d Student at Rutgers ECE department, fortunately advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). I also work closely with [Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/). Previously I got my bachelor's degree from the University of Electronic Science and Technology of China(UESTC).
+I am a fourth-year Ph.d Student at Rutgers ECE department, fortunately advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). I also work closely with [Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/). Previously I got my bachelor's degree from the University of Electronic Science and Technology of China(UESTC).
 My research focuses on the theoretical guarantee for statistical methods of machine learning and optimization problems. I am also interested in its related application in real worlds. 
 
 
@@ -38,12 +38,15 @@ Publications
 ======
 * **Unique sparse decomposition of low rank matrices** [arXiv](https://arxiv.org/abs/2106.07736)
 
-Dian Jin, Xin Bing, Yuqian Zhang. ***IEEE Transactions on Information Theory***. (Shorter version accepted by ***Neurips*** 2021)
+Joint work with Xin Bing and Yuqian Zhang. ***IEEE Transactions on Information Theory***. (Shorter version accepted by ***Neurips*** 2021)
+
+* **Optimal Vintage Factor analysis with deflation varimax**
+Joint work with Xin Bing and Yuqian Zhang.
 
 
 Work experience
 ======
-* June 2023 - Now: Machine Learning Intern
+* June 2023 - Aug 2023: Machine Learning Intern
   * Alibaba, Taobao-Mall Group
   * Duties included: Search enhanced recommendation system
 
