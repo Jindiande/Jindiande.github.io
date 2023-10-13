@@ -42,7 +42,7 @@ Publications
   
     **IEEE Transactions on Information   Theory***. (Shorter version accepted by ***Neurips*** 2021)
 
-* **Optimal vintage factor analysis with deflation varimax** [link](https://rutgersconnect-my.sharepoint.com/:b:/g/personal/dj370_soe_rutgers_edu/EWAxZO5gvIJDirPxlIv3P50B_ZVEVXn15D33aLF07pfoYQ?e=h180lo)
+* **Optimal vintage factor analysis with deflation varimax** [link]([https://rutgersconnect-my.sharepoint.com/:b:/g/personal/dj370_soe_rutgers_edu/EWAxZO5gvIJDirPxlIv3P50B_ZVEVXn15D33aLF07pfoYQ?e=h180lo](https://rutgersconnect-my.sharepoint.com/:b:/g/personal/dj370_soe_rutgers_edu/ESxNFtLiCCRGvh1pyrk7Ii8B0zqeL6l3WZHsjEJLqal7Sg?e=h4Mduh))
   
   Joint work with Xin Bing and Yuqian Zhang.
 
