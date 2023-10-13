@@ -42,12 +42,12 @@ Publications
   
     **IEEE Transactions on Information   Theory***. (Shorter version accepted by ***Neurips*** 2021)
 
-* **Optimal vintage factor analysis with deflation varimax**
+* **Optimal vintage factor analysis with deflation varimax** [link](https://rutgersconnect-my.sharepoint.com/:b:/g/personal/dj370_soe_rutgers_edu/EWAxZO5gvIJDirPxlIv3P50B_ZVEVXn15D33aLF07pfoYQ?e=h180lo)
   
   Joint work with Xin Bing and Yuqian Zhang.
 
 
-Work experience
+Industry experience
 ======
 * June 2023 - Aug 2023: Machine Learning Intern
   * Alibaba, Taobao-Mall Group
@@ -56,10 +56,6 @@ Work experience
 * May 2022 - Aug 2022: Research Intern
   * Futurewei, AI research
   * Duties included: Graph Clustering Robustness Analysis
-
-* Sep 2020 - Now: Research Assistant
-  * Rutgers University
-  * Duties included: Sparse Dictionary Learning
 
 * May 2019 - Aug 2019: Research Intern
   * iFlytek, AI Lab.
