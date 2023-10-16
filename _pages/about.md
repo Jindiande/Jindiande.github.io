@@ -36,7 +36,7 @@ News
 
 Publications
 ======
-* **Unique sparse decomposition of low rank matrices** [arXiv](https://arxiv.org/abs/2106.07736)
+* **Unique sparse decomposition of low rank matrices** [link](https://ieeexplore.ieee.org/document/9954420)
   
     Joint work with Xin Bing and Yuqian Zhang.
   
@@ -44,7 +44,9 @@ Publications
 
 * **Optimal vintage factor analysis with deflation varimax** [link](https://rutgersconnect-my.sharepoint.com/:b:/g/personal/dj370_soe_rutgers_edu/ESxNFtLiCCRGvh1pyrk7Ii8B0zqeL6l3WZHsjEJLqal7Sg?e=OvnJc9)
   
-  Joint work with Xin Bing and Yuqian Zhang.
+    Joint work with Xin Bing and Yuqian Zhang.
+
+    (Under review for Annals of Statistics)
 
 
 Industry experience
