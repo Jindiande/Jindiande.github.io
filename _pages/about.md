@@ -40,13 +40,13 @@ Publications
   
     Joint work with Xin Bing and Yuqian Zhang.
   
-    **IEEE Transactions on Information   Theory***. (Shorter version accepted by ***Neurips*** 2021)
+    **IEEE Transactions on Information   Theory**. (Shorter version accepted by ***Neurips*** 2021)
 
 * **Optimal vintage factor analysis with deflation varimax** [link](https://rutgersconnect-my.sharepoint.com/:b:/g/personal/dj370_soe_rutgers_edu/ESxNFtLiCCRGvh1pyrk7Ii8B0zqeL6l3WZHsjEJLqal7Sg?e=OvnJc9)
   
     Joint work with Xin Bing and Yuqian Zhang.
 
-    (Under review for Annals of Statistics)
+    (Submitted to Annals of Statistics)
 
 
 Industry experience
