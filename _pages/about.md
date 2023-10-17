@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.d Student at Rutgers ECE department, fortunately advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). I also work closely with [Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/). Previously I got my bachelor's degree from the University of Electronic Science and Technology of China(UESTC).
+I am a fourth-year Ph.D. Student at Rutgers ECE department, fortunately advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). I also work closely with [Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/). Previously I got my bachelor's degree from the University of Electronic Science and Technology of China(UESTC).
 My research focuses on the theoretical guarantee for statistical methods of machine learning and optimization problems. I am also interested in its related application in real worlds. 
 
 
@@ -42,7 +42,7 @@ Publications
   
     **IEEE Transactions on Information   Theory**. (Shorter version accepted by ***Neurips*** 2021)
 
-* **Optimal vintage factor analysis with deflation varimax** [link](https://rutgersconnect-my.sharepoint.com/:b:/g/personal/dj370_soe_rutgers_edu/ESxNFtLiCCRGvh1pyrk7Ii8B0zqeL6l3WZHsjEJLqal7Sg?e=OvnJc9)
+* **Optimal vintage factor analysis with deflation varimax** [link](https://arxiv.org/abs/2310.10545)
   
     Joint work with Xin Bing and Yuqian Zhang.
 
