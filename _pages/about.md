@@ -19,7 +19,7 @@ My research focuses on the theoretical guarantee for statistical methods of mach
 Education
 ======
 * B.S. in UESTC, 2019
-* Ph.D in Rutgers University, New Brunswick, 2024 (expected)
+* Ph.D in Rutgers University, New Brunswick
 
 News
 ======
