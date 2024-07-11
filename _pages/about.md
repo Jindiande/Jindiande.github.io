@@ -23,6 +23,8 @@ Education
 
 News
 ======
+**May 2024**: Start my new position as a research intern at ***Shanghai AI Lab***.
+
 **Jun 2023**: Start my new position as a Machine Learning intern at ***Alibaba***.
 
 **May 2023**: Submitted a new paper to NeurIPS 2023.
