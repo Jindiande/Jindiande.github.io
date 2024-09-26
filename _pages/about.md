@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a fourth-year Ph.D. Student at Rutgers ECE department, fortunately advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). I also work closely with [Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/). Previously I got my bachelor's degree from the University of Electronic Science and Technology of China(UESTC).
-My research focuses on the theoretical guarantee for statistical methods of machine learning and optimization problems. I am also interested in its related application in real worlds. 
+My research focuses on the theoretical guarantee for statistical methods of machine learning and optimization problems. I am also interested in its related application in real worlds. Here I attached my [CV](https://rutgersconnect-my.sharepoint.com/:b:/g/personal/dj370_soe_rutgers_edu/Ed7Qy9GozlhGlHRiBJxRhh0B1TOnWC2h1aY3k4WKA85AuA?e=aAhXE4) for your reference.
 
 
 
