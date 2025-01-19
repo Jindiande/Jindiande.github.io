@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a final-year Ph.D. Student at Rutgers ECE department, fortunately advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). I also work closely with [Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/). Previously I got my bachelor's degree from the University of Electronic Science and Technology of China(UESTC).
-My research focuses on the theoretical guarantee for statistical methods of machine learning and optimization problems. I am also interested in its related application in real worlds. Here I attached my [CV](https://rutgersconnect-my.sharepoint.com/:b:/g/personal/dj370_soe_rutgers_edu/EYfCY4D68-hCt-qqByCrB0wBsk1mQ_oj6DE9NC2VprvxjQ?e=zEYsGf) for your reference.
+My research focuses on the theoretical guarantee for statistical methods of machine learning and optimization problems. I am also interested in its related application in real world. Here I attached my [CV](https://rutgersconnect-my.sharepoint.com/:b:/g/personal/dj370_soe_rutgers_edu/EYfCY4D68-hCt-qqByCrB0wBsk1mQ_oj6DE9NC2VprvxjQ?e=zEYsGf) for your reference.
 
 
 
@@ -53,6 +53,10 @@ Publications
 
 Industry experience
 ======
+* May 2024- Aug 2024: Research intern
+  * Shanghai AI Lab
+  * Duties included: Community detection for Contextual Label-SBM.  
+
 * June 2023 - Aug 2023: Machine Learning Intern
   * Alibaba, Taobao-Mall Group
   * Duties included: Search enhanced recommendation system
