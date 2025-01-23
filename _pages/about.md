@@ -51,9 +51,11 @@ Publications
     (Submitted to Annals of Statistics)
 * **Community Detection for Contextual-LSBM: Theoretical Limitations of Misclassification Rate and Efficient Algorithms** [link](https://arxiv.org/abs/2501.11139)
 
+    Joint work with Qiaosheng Zhang and Yuqian Zhang.
+
 Industry experience
 ======
-* May 2024- Aug 2024: Research intern
+* May 2024- Aug 2024: Research Intern
   * Shanghai AI Lab
   * Duties included: Community detection for Contextual Label-SBM.  
 
