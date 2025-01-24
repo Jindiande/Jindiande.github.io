@@ -49,7 +49,7 @@ Publications
     Joint work with Xin Bing and Yuqian Zhang.
 
     (Submitted to Annals of Statistics)
-* **Community Detection for Contextual-LSBM: Theoretical Limitations of Misclassification Rate and Efficient Algorithms** [link](https://arxiv.org/abs/2501.11139)
+* **Community detection for contextual-LSBM: theoretical limitations of misclassification rate and efficient algorithms** [link](https://arxiv.org/abs/2501.11139)
 
     Joint work with Qiaosheng Zhang and Yuqian Zhang.
 
