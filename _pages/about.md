@@ -18,8 +18,8 @@ My research focuses on the theoretical guarantees for statistical methods in mac
 ---
 
 ## 🎓 Education
-- **B.S. in Electronic Engineering** – UESTC, 2019  
-- **Ph.D. in Electrical & Computer Engineering** – Rutgers University, New Brunswick *(Expected 2024)*
+- **B.E. in Automation Engineering** – UESTC, 2019  
+- **Ph.D. in Electrical & Computer Engineering** – Rutgers University, New Brunswick *(Expected 2025)*
 
 ---
 
