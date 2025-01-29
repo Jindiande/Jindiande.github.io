@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-![Profile Picture](https://via.placeholder.com/150 "Your Profile Picture")
 
 ## About Me
 I am a final-year Ph.D. student at **Rutgers ECE Department**, advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). I also work closely with [Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/). Previously, I earned my bachelor's degree from the **University of Electronic Science and Technology of China (UESTC).**
