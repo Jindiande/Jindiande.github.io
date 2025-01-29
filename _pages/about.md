@@ -43,10 +43,11 @@ My research focuses on the theoretical guarantees for statistical methods in mac
 
 - **[Optimal Vintage Factor Analysis with Deflation Varimax](https://arxiv.org/abs/2310.10545)**  
   *Co-authored with Xin Bing and Yuqian Zhang.*  
-  *(Submitted to Annals of Statistics)*  
+  *(Submitted to The Annals of Statistics)*  
 
 - **[Community Detection for Contextual-LSBM](https://arxiv.org/abs/2501.11139)**  
-  *Co-authored with Qiaosheng Zhang and Yuqian Zhang.*  
+  *Co-authored with Qiaosheng Zhang and Yuqian Zhang.*
+  *(Submitted to ISIT 2025)*
 
 ---
 
