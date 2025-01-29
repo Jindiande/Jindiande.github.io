@@ -50,16 +50,16 @@ My research focuses on the theoretical guarantees for statistical methods in mac
 
 ## 💼 Industry Experience
 ### Research Intern, **Shanghai AI Lab** *(May 2024 – Aug 2024)*
-- Focus: Community detection for Contextual Label-SBM.
+- Topic: Community detection for Contextual Label-SBM.
 
 ### Machine Learning Intern, **Alibaba – Taobao-Mall Group** *(June 2023 – Aug 2023)*
-- Worked on search-enhanced recommendation systems.
+- Topic: Search-enhanced recommendation systems.
 
 ### Research Intern, **Futurewei – AI Research** *(May 2022 – Aug 2022)*
-- Conducted robustness analysis on graph clustering.
+- Topic: Robustness analysis on graph clustering.
 
 ### Research Intern, **iFlytek – AI Lab** *(May 2019 – Aug 2019)*
-- Worked on machine translation estimation.
+- Topic: machine translation estimation.
 
 ---
 
