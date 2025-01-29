@@ -36,7 +36,7 @@ My research focuses on the theoretical guarantees for statistical methods in mac
 
 ---
 
-## 📚 Selected Publications
+## 📚 Publications and preprints
 - **[Unique Sparse Decomposition of Low Rank Matrices](https://ieeexplore.ieee.org/document/9954420)**  
   *Co-authored with Xin Bing and Yuqian Zhang.*  
   **IEEE Transactions on Information Theory** *(Shorter version accepted at NeurIPS 2021).*  
