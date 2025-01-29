@@ -1,79 +1,70 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "Learn more about me, my research, and experience."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a final-year Ph.D. Student at Rutgers ECE department, fortunately advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). I also work closely with [Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/). Previously I got my bachelor's degree from the University of Electronic Science and Technology of China(UESTC).
-My research focuses on the theoretical guarantee for statistical methods of machine learning and optimization problems. I am also interested in its related application in real world. Here I attached my [CV](https://drive.google.com/file/d/1FNpe6eXEHq38c-zC1C-QMdqszaS8Iv_2/view) for your reference.
+![Profile Picture](https://via.placeholder.com/150 "Your Profile Picture")
 
+## About Me
+I am a final-year Ph.D. student at **Rutgers ECE Department**, advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). I also work closely with [Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/). Previously, I earned my bachelor's degree from the **University of Electronic Science and Technology of China (UESTC).**
 
+My research focuses on the theoretical guarantees for statistical methods in machine learning and optimization problems. I am also interested in real-world applications of these methods.
 
+📄 [**Download My CV**](https://drive.google.com/file/d/1FNpe6eXEHq38c-zC1C-QMdqszaS8Iv_2/view)  
+📧 Email: dj370@scarletmail.rutgers.edu / uestcjd@gmail.com
 
+---
 
+## 🎓 Education
+- **B.S. in Electronic Engineering** – UESTC, 2019  
+- **Ph.D. in Electrical & Computer Engineering** – Rutgers University, New Brunswick *(Expected 2024)*
 
-Education
-======
-* B.S. in UESTC, 2019
-* Ph.D in Rutgers University, New Brunswick
+---
 
-News
-======
-**May 2024**: Start my new position as a research intern at ***Shanghai AI Lab***.
+## 📰 News
+- **May 2024** – Started a research internship at ***Shanghai AI Lab***.
+- **June 2023** – Began a Machine Learning internship at ***Alibaba***.
+- **May 2023** – Submitted a new paper to **NeurIPS 2023**.
+- **March 2022** – Joined ***Futurewei (Huawei U.S)*** as a research intern.
+- **October 2021** – Passed my Ph.D. qualifying exam. 🎉
+- **September 2021** – Our [paper](https://arxiv.org/abs/2106.07736) was accepted at **NeurIPS 2021** *(Poster Session).*  
 
-**Jun 2023**: Start my new position as a Machine Learning intern at ***Alibaba***.
+---
 
-**May 2023**: Submitted a new paper to NeurIPS 2023.
+## 📚 Selected Publications
+- **[Unique Sparse Decomposition of Low Rank Matrices](https://ieeexplore.ieee.org/document/9954420)**  
+  *Co-authored with Xin Bing and Yuqian Zhang.*  
+  **IEEE Transactions on Information Theory** *(Shorter version accepted at NeurIPS 2021).*  
 
-**Mar 2022**: I will join ***Futurewei(Huawei U.S)*** as a research intern this summer.
+- **[Optimal Vintage Factor Analysis with Deflation Varimax](https://arxiv.org/abs/2310.10545)**  
+  *Co-authored with Xin Bing and Yuqian Zhang.*  
+  *(Submitted to Annals of Statistics)*  
 
-**Oct 2021**: Passed my qualifying exam. Thanks for my advisor's help on my exam! 
+- **[Community Detection for Contextual-LSBM](https://arxiv.org/abs/2501.11139)**  
+  *Co-authored with Qiaosheng Zhang and Yuqian Zhang.*  
 
-**Sep 2021**: Our [paper](https://arxiv.org/abs/2106.07736) got accepted by NeurIPS 2021 poster.
+---
 
+## 💼 Industry Experience
+### Research Intern, **Shanghai AI Lab** *(May 2024 – Aug 2024)*
+- Focus: Community detection for Contextual Label-SBM.
 
-Publications
-======
-* **Unique sparse decomposition of low rank matrices** [link](https://ieeexplore.ieee.org/document/9954420)
-  
-    Joint work with Xin Bing and Yuqian Zhang.
-  
-    **IEEE Transactions on Information   Theory**. (Shorter version accepted by ***Neurips*** 2021)
+### Machine Learning Intern, **Alibaba – Taobao-Mall Group** *(June 2023 – Aug 2023)*
+- Worked on search-enhanced recommendation systems.
 
-* **Optimal vintage factor analysis with deflation varimax** [link](https://arxiv.org/abs/2310.10545)
-  
-    Joint work with Xin Bing and Yuqian Zhang.
+### Research Intern, **Futurewei – AI Research** *(May 2022 – Aug 2022)*
+- Conducted robustness analysis on graph clustering.
 
-    (Submitted to Annals of Statistics)
-* **Community detection for contextual-LSBM: theoretical limitations of misclassification rate and efficient algorithms** [link](https://arxiv.org/abs/2501.11139)
+### Research Intern, **iFlytek – AI Lab** *(May 2019 – Aug 2019)*
+- Worked on machine translation estimation.
 
-    Joint work with Qiaosheng Zhang and Yuqian Zhang.
+---
 
-Industry experience
-======
-* May 2024- Aug 2024: Research Intern
-  * Shanghai AI Lab
-  * Duties included: Community detection for Contextual Label-SBM.  
-
-* June 2023 - Aug 2023: Machine Learning Intern
-  * Alibaba, Taobao-Mall Group
-  * Duties included: Search enhanced recommendation system
-
-* May 2022 - Aug 2022: Research Intern
-  * Futurewei, AI research
-  * Duties included: Graph Clustering Robustness Analysis
-
-* May 2019 - Aug 2019: Research Intern
-  * iFlytek, AI Lab.
-  * Duties included: Machine Translation Estimation
-
-Contact
-=====
-Email: dj370@scarletmail.rutgers.edu / uestcjd@gmail.com  
-  
-
-
+## 📬 Contact
+📧 Email: dj370@scarletmail.rutgers.edu / uestcjd@gmail.com  
+🔗 [LinkedIn](#) | [Google Scholar](#) | [GitHub](#) *(Add your links here)*
