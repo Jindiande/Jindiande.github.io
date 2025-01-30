@@ -13,7 +13,6 @@ I am a final-year Ph.D. student at **Rutgers ECE Department**, advised by [Prof.
 My research focuses on the theoretical guarantees for statistical methods in machine learning and optimization problems. I am also interested in real-world applications of these methods.
 
 📄 [**Download My CV**](https://drive.google.com/file/d/1FNpe6eXEHq38c-zC1C-QMdqszaS8Iv_2/view)  
-📧 Email: dj370@scarletmail.rutgers.edu / uestcjd@gmail.com
 
 ---
 
