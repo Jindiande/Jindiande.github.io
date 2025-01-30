@@ -35,15 +35,15 @@ My research focuses on the theoretical guarantees for statistical methods in mac
 
 ## 📚 Publications and preprints
 - **[Unique Sparse Decomposition of Low Rank Matrices](https://ieeexplore.ieee.org/document/9954420)**  
-  *Co-authored with Xin Bing and Yuqian Zhang.*  
+  *Joint work with Xin Bing and Yuqian Zhang.*  
   **IEEE Transactions on Information Theory** *(Shorter version accepted at NeurIPS 2021).*  
 
 - **[Optimal Vintage Factor Analysis with Deflation Varimax](https://arxiv.org/abs/2310.10545)**  
-  *Co-authored with Xin Bing and Yuqian Zhang.*  
+  *Joint work with Xin Bing and Yuqian Zhang.*  
   *(Submitted to The Annals of Statistics)*  
 
 - **[Community Detection for Contextual-LSBM](https://arxiv.org/abs/2501.11139)**  
-  *Co-authored with Qiaosheng Zhang and Yuqian Zhang.*  
+  *Joint work with Qiaosheng Zhang and Yuqian Zhang.*  
   *(Shorter version submitted to ISIT 2025)*
 
 ---
