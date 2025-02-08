@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dian(金典)Jin"
+title                    : "Dian(金典) Jin"
 title_separator          : "-"
 name                     : &name "Dian Jin"
-description              : &description "Ph.d Candidate at Rutgers ECE"
+description              : &description "Ph.D Candidate at Rutgers ECE"
 url                      : https://Jindiande.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jindiande/Jindiande.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dian Jin"
   avatar           : "profile.jpg"
-  bio              : "Ph.d Candidate at Rutgers ECE."
+  bio              : "Ph.D Candidate at Rutgers ECE."
   location         : "New Jersy, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JIndiande"
+  github           : "Jindiande"
   google_plus      :
   keybase          :
   instagram        :
