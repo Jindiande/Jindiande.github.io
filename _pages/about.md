@@ -23,6 +23,7 @@ My research focuses on the theoretical guarantees for statistical methods in mac
 ---
 
 ## 📰 News
+- **March 2025** - Passed my Ph.D. defense. 🎉  
 - **May 2024** – Started a research internship at ***Shanghai AI Lab***.
 - **June 2023** – Began a Machine Learning internship at ***Alibaba***.
 - **May 2023** – Submitted a new paper to **NeurIPS 2023**.
