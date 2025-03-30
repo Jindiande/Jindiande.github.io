@@ -39,7 +39,7 @@ My research focuses on the theoretical guarantees for statistical methods in mac
   **IEEE Transactions on Information Theory** *(Shorter version accepted at NeurIPS 2021).*  
 
 - **[Optimal Vintage Factor Analysis with Deflation Varimax](https://arxiv.org/abs/2310.10545)**  
-  *Joint work with Xin Bing and Yuqian Zhang.*  
+  *Joint work with Xin Bing, Xin He and Yuqian Zhang.*  
   to appear in **The Annals of Statistics**  
 
 - **[Community Detection for Contextual-LSBM](https://arxiv.org/abs/2501.11139)**  
