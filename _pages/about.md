@@ -59,7 +59,7 @@ My research focuses on the theoretical guarantees for statistical methods in mac
 - Topic: Robustness analysis on graph clustering.
 
 ### Research Intern, **iFlytek – AI Lab** *(May 2019 – Aug 2019)*
-- Topic: machine translation estimation.
+- Topic: Machine translation estimation.
 
 ---
 
