@@ -44,7 +44,7 @@ My research focuses on the theoretical guarantees for statistical methods in mac
 
 - **[Community Detection for Contextual-LSBM](https://arxiv.org/abs/2501.11139)**  
   *Joint work with Qiaosheng Zhang and Yuqian Zhang.*  
-  *(Shorter version submitted to ISIT 2025)*
+  *(Shorter version accepted by ISIT 2025)*
 
 ---
 
