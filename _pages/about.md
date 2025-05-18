@@ -23,10 +23,11 @@ My research focuses on the theoretical guarantees for statistical methods in mac
 ---
 
 ## 📰 News
+- **May 2025** - Submitted a new paper to NeurIPS 2025.
 - **March 2025** - Passed my Ph.D. defense. 🎉  
 - **May 2024** – Started a research internship at ***Shanghai AI Lab***.
 - **June 2023** – Began a Machine Learning internship at ***Alibaba***.
-- **May 2023** – Submitted a new paper to **NeurIPS 2023**.
+- **May 2023** – Submitted a new paper to NeurIPS 2023.
 - **March 2022** – Joined ***Futurewei (Huawei U.S)*** as a research intern.
 - **October 2021** – Passed my Ph.D. qualifying exam. 🎉
 - **September 2021** – Our [paper](https://arxiv.org/abs/2106.07736) was accepted at **NeurIPS 2021** *(Poster Session).*  
