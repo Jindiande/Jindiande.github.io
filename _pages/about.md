@@ -47,7 +47,7 @@ My research focuses on the theoretical guarantees for statistical methods in mac
   *(Shorter version accepted by ISIT 2025)*
 
 - **One-shot Robust Federated Learning of Independent Component Analysis**\
-  *Joint work with Xin Bing and Yuqian Zhang.*
+  *Joint work with Xin Bing and Yuqian Zhang.*\
   *(Shorter version submitted by NeurIPS 2025)*
 
 ---
