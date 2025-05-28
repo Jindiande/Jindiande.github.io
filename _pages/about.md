@@ -47,7 +47,7 @@ My research focuses on the theoretical guarantees for statistical methods in mac
   *Joint work with Qiaosheng Zhang and Yuqian Zhang.*  
   *(Shorter version accepted by ISIT 2025)*
 
-- **One-shot Robust Federated Learning of ICA**\
+- **[One-shot Robust Federated Learning of ICA](https://arxiv.org/abs/2505.20532)**\
   *Joint work with Xin Bing and Yuqian Zhang.*\
   *(Shorter version submitted to NeurIPS 2025)*
 
