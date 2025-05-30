@@ -12,7 +12,7 @@ I am a final-year Ph.D. student at **Rutgers ECE Department**, advised by [Prof.
 
 My research focuses on the theoretical guarantees for statistical methods in machine learning and optimization problems. I am also interested in real-world applications of these methods.
 
-📄 [**Download My CV**](https://drive.google.com/file/d/1FNpe6eXEHq38c-zC1C-QMdqszaS8Iv_2/view)  
+📄 [**Download My CV**](https://github.com/Jindiande/Jindiande.github.io/blob/a0c146f4b1a81cbe7bb3de77100b3a6cfb00f3e9/files/CV_Dian_Jin_academic%20(14).pdf)  
 
 ---
 
