@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. student at **Rutgers ECE Department**, advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). I also work closely with [Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/) and was also fortunate to visit [Prof. Qiaosheng Zhang](https://qiaoshengzhang.github.io/) at Shanghai AI Lab. Previously, I earned my bachelor's degree from the **University of Electronic Science and Technology of China (UESTC).**
+I am a final-year Ph.D. student at **Rutgers ECE Department**, advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). I also work closely with [Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/) and was fortunate to visit [Prof. Qiaosheng Zhang](https://qiaoshengzhang.github.io/) at Shanghai AI Lab. Previously, I earned my bachelor's degree from the **University of Electronic Science and Technology of China (UESTC).**
 
 My research focuses on the theoretical guarantees for statistical methods in machine learning and optimization problems. I am also interested in real-world applications of these methods.
 
