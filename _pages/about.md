@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. student at **Rutgers ECE Department**, advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). I also work closely with [Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/) and was fortunate to visit [Prof. Qiaosheng Zhang](https://qiaoshengzhang.github.io/) at Shanghai AI Lab. Previously, I received my bachelor's degree from the **University of Electronic Science and Technology of China (UESTC).**
+I received my Ph.D. at **Rutgers ECE Department**, advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). I was fortunate to work with  [Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/) at UofT and [Prof. Qiaosheng Zhang](https://qiaoshengzhang.github.io/) at Shanghai AI Lab. Previously, I received my bachelor's degree from the **University of Electronic Science and Technology of China (UESTC)** in Chengdu, China.
 
-My research focuses on the theoretical guarantees for statistical methods in machine learning and optimization problems. I am also interested in real-world applications of these methods.
+My research focuses on the theoretical guarantees for statistical methods in machine learning and (Non-convex) optimization problems. I am also interested in real-world applications of these methods.
 
 📄 [**Download My CV**](https://drive.google.com/file/d/1FNpe6eXEHq38c-zC1C-QMdqszaS8Iv_2/view?usp=drive_link)  
 
@@ -41,7 +41,7 @@ My research focuses on the theoretical guarantees for statistical methods in mac
 
 - **[Optimal Vintage Factor Analysis with Deflation Varimax](https://arxiv.org/abs/2310.10545)**  
   *Joint work with Xin Bing, Xin He and Yuqian Zhang.*  
-  to appear in **The Annals of Statistics**  
+  **The Annals of Statistics**  
 
 - **[Community Detection for Contextual-LSBM](https://arxiv.org/abs/2501.11139)**  
   *Joint work with Qiaosheng Zhang and Yuqian Zhang.*  
@@ -69,4 +69,4 @@ My research focuses on the theoretical guarantees for statistical methods in mac
 ---
 
 ## 📬 Contact
-📧 Email: dj370@scarletmail.rutgers.edu / uestcjd@gmail.com  
+📧 Email: uestcjd@gmail.com  
