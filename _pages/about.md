@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. degree at **Rutgers ECE**, advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). I was also fortunate to work with  [Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/) at UofT and [Prof. Qiaosheng(Eric) Zhang](https://qiaoshengzhang.github.io/) at Shanghai AI Lab. Previously, I received my bachelor's degree from the **University of Electronic Science and Technology of China (UESTC)** in Chengdu, China.
+I received my Ph.D. degree at **Rutgers ECE**, advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). I was also fortunate to work with  [Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/) at University of Toronto and [Prof. Qiaosheng(Eric) Zhang](https://qiaoshengzhang.github.io/) at Shanghai AI Lab. Previously, I received my bachelor's degree from the **University of Electronic Science and Technology of China (UESTC)** in Chengdu, China.
 
 My research focuses on the theoretical guarantees for statistical methods in machine learning and (Non-convex) optimization problems. I am also interested in real-world applications of these methods.
 
