@@ -70,4 +70,4 @@ My research focuses on the theoretical guarantees for statistical methods in mac
 ---
 
 ## 📬 Contact
-📧 Email: uestcjd@gmail.com  
+📧 Email: uestcjd@gmail.com/ dj370@scarletmail.rutgers.edu  
