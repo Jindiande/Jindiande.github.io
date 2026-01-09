@@ -23,7 +23,7 @@ My research focuses on the theoretical guarantees for statistical methods in mac
 ---
 
 ## 📰 News
-- **Jan 2026** - I will join Department of Statistics and Data Science, NUS as a postdoc fellow.
+- **Jan 2026** - I will join Department of Statistics and Data Science, NUS as a postdoc research fellow.
 - **May 2025** - Submitted a new paper to NeurIPS 2025.
 - **March 2025** - Passed my Ph.D. defense. 🎉  
 - **May 2024** – Started a research internship at ***Shanghai AI Lab***.
