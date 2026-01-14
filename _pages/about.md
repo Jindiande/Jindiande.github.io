@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. degree at **Rutgers ECE**, advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). I was also fortunate to work with  [Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/) at University of Toronto and [Prof. Qiaosheng(Eric) Zhang](https://qiaoshengzhang.github.io/) at Shanghai AI Lab. Previously, I received my bachelor's degree from the **University of Electronic Science and Technology of China (UESTC)** in Chengdu, China.
+Dian Jin is now a postdoc research fellow at Department of Statistics and Data Science, National University of Singapore, hosted by Prof. Doudou Zhou. He received my Ph.D. degree at **Rutgers ECE**, advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). He was fortunate to work with  [Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/) at University of Toronto and [Prof. Qiaosheng(Eric) Zhang](https://qiaoshengzhang.github.io/) at Shanghai AI Lab. His research focuses on the theoretical guarantees for statistical methods in machine learning and (Non-convex) optimization problems and their application to real world problem.
 
-My research focuses on the theoretical guarantees for statistical methods in machine learning and (Non-convex) optimization problems. I am also interested in real-world applications of these methods.
 
 📄 [**Download My CV**](https://drive.google.com/file/d/1FNpe6eXEHq38c-zC1C-QMdqszaS8Iv_2/view?usp=drive_link)  
 
