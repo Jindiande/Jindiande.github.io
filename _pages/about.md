@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dian Jin is currently a Postdoctoral Research Fellow in the Department of Statistics and Data Science at the National University of Singapore, hosted by Prof. Doudou Zhou. He earned his Ph.D. from the Department of Electrical and Computer Engineering at Rutgers University, where he was advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). Previously, he had the privilege of working with[Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/) at the University of Toronto and [Prof. Qiaosheng(Eric) Zhang](https://qiaoshengzhang.github.io/) at the Shanghai AI Lab. His research focuses on theoretical guarantees for statistical methods in machine learning and non-convex optimization, as well as their application to real-world problems
+Dian Jin is currently a Postdoctoral Research Fellow in the Department of Statistics and Data Science at the National University of Singapore, hosted by Prof. Doudou Zhou. He earned his Ph.D. from the Department of Electrical and Computer Engineering at Rutgers University, where he was advised by [Prof. Yuqian Zhang](https://sites.google.com/view/yuqianzhang). Previously, he had the privilege of working with [Prof. Xin Bing](https://sites.coecis.cornell.edu/xinbing/) at the University of Toronto and [Prof. Qiaosheng(Eric) Zhang](https://qiaoshengzhang.github.io/) at the Shanghai AI Lab. His research focuses on theoretical guarantees for statistical methods in machine learning and non-convex optimization, as well as their application to real-world problems
 
 📄 [**Download My CV**](https://drive.google.com/file/d/1FNpe6eXEHq38c-zC1C-QMdqszaS8Iv_2/view?usp=drive_link)  
 
