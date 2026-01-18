@@ -44,7 +44,7 @@ Dian Jin is currently a Postdoctoral Research Fellow in the Department of Statis
 
 - **[Community Detection for Contextual-LSBM](https://arxiv.org/abs/2501.11139)**  
   *Joint work with Qiaosheng Zhang and Yuqian Zhang.*  
-  *(Shorter version accepted by ISIT 2025)*
+  *(Shorter version accepted at ISIT 2025)*
 
 - **[One-shot Robust Federated Learning of ICA](https://arxiv.org/abs/2505.20532)**\
   *Joint work with Xin Bing and Yuqian Zhang.*\
@@ -53,6 +53,7 @@ Dian Jin is currently a Postdoctoral Research Fellow in the Department of Statis
 ---
 
 ## 💼 Industry Experience
+
 ### Research Intern, **Shanghai AI Lab** *(May 2024 – Aug 2024)*
 - Topic: Community detection for Contextual Label-SBM.
 
