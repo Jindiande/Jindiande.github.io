@@ -21,9 +21,9 @@ Dian Jin earned his Ph.D. from the Department of Electrical and Computer Enginee
 ---
 
 ## 📰 News
-- **Jan 2026** - I will join Department of Statistics and Data Science, NUS as a postdoc research fellow.
-- **May 2025** - Submitted a new paper to NeurIPS 2025.
-- **March 2025** - Passed my Ph.D. defense. 🎉  
+- **Jan 2026** – I will join Department of Statistics and Data Science, NUS as a postdoc research fellow.
+- **May 2025** – Submitted a new paper to NeurIPS 2025.
+- **March 2025** – Passed my Ph.D. defense. 🎉  
 - **May 2024** – Started a research internship at ***Shanghai AI Lab***.
 - **June 2023** – Began a Machine Learning internship at ***Alibaba***.
 - **May 2023** – Submitted a new paper to NeurIPS 2023.
@@ -34,25 +34,26 @@ Dian Jin earned his Ph.D. from the Department of Electrical and Computer Enginee
 ---
 
 ## 📚 Publications and preprints
-- **[Unique Sparse Decomposition of Low Rank Matrices](https://ieeexplore.ieee.org/document/9954420)**  
-  *Joint work with Xin Bing and Yuqian Zhang.*  
-  **IEEE Transactions on Information Theory** *(Shorter version accepted at NeurIPS 2021).*  
+- **[Unique Sparse Decomposition of Low Rank Matrices](https://ieeexplore.ieee.org/document/9954420)**<br>
+  *Joint work with Xin Bing and Yuqian Zhang.*<br>
+  **IEEE Transactions on Information Theory** *(Shorter version accepted at NeurIPS 2021).*
 
-- **[Optimal Vintage Factor Analysis with Deflation Varimax](https://arxiv.org/abs/2310.10545)**  
-  *Joint work with Xin Bing, Xin He and Yuqian Zhang.*  
-  **The Annals of Statistics**  
+- **[Optimal Vintage Factor Analysis with Deflation Varimax](https://arxiv.org/abs/2310.10545)**<br>
+  *Joint work with Xin Bing, Xin He and Yuqian Zhang.*<br>
+  **The Annals of Statistics**
 
-- **[Community Detection for Contextual-LSBM](https://arxiv.org/abs/2501.11139)**  
-  *Joint work with Qiaosheng Zhang and Yuqian Zhang.*  
+- **[Community Detection for Contextual-LSBM](https://arxiv.org/abs/2501.11139)**<br>
+  *Joint work with Qiaosheng Zhang and Yuqian Zhang.*<br>
   *(Shorter version accepted at ISIT 2025)*
 
-- **[One-shot Robust Federated Learning of ICA](https://arxiv.org/abs/2505.20532)**\
-  *Joint work with Xin Bing and Yuqian Zhang.*\
+- **[One-shot Robust Federated Learning of ICA](https://arxiv.org/abs/2505.20532)**<br>
+  *Joint work with Xin Bing and Yuqian Zhang.*<br>
   *(Shorter version submitted to NeurIPS 2025)*
 
-- **[Cost-optimal Sequential Testing via Doubly Robust Q-learning](https://arxiv.org/abs/2604.11165v2)**\
-  *Joint work with Doudou Zhou, Yiran Zhang, Yingye Zheng, Lu Tian, Tianxi Cai*\
+- **[Cost-optimal Sequential Testing via Doubly Robust Q-learning](https://arxiv.org/abs/2604.11165v2)**<br>
+  *Joint work with Doudou Zhou, Yiran Zhang, Yingye Zheng, Lu Tian, Tianxi Cai.*<br>
   *(Submitted to Biometrika)*
+
 ---
 
 ## 💼 Industry Experience
@@ -72,4 +73,4 @@ Dian Jin earned his Ph.D. from the Department of Electrical and Computer Enginee
 ---
 
 ## 📬 Contact
-📧 Email: uestcjd@gmail.com/ dj370@scarletmail.rutgers.edu  
+📧 Email: uestcjd@gmail.com / dj370@scarletmail.rutgers.edu
