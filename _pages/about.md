@@ -50,7 +50,7 @@ Dian Jin earned his Ph.D. from the Department of Electrical and Computer Enginee
   *Joint work with Xin Bing and Yuqian Zhang.*\
   *(Shorter version submitted to NeurIPS 2025)*
 
-- **[Cost-optimal Sequential Testing via Doubly Robust Q-learning](https://arxiv.org/abs/2604.11165v2)**
+- **[Cost-optimal Sequential Testing via Doubly Robust Q-learning](https://arxiv.org/abs/2604.11165v2)**\
   *Joint work with Doudou Zhou, Yiran Zhang, Yingye Zheng, Lu Tian, Tianxi Cai*
 ---
 
