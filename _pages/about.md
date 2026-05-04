@@ -58,7 +58,7 @@ Dian Jin earned his Ph.D. from the Department of Electrical and Computer Enginee
 
 ## 💼 Industry Experience
 
-### Research Rngineer, **HUAWEI, 2012 Labs** *(August 2025- Feb 2026)*
+### Research Engineer, **HUAWEI, 2012 Labs** *(August 2025- Feb 2026)*
 - Topic: AI assisted RS overhead reduction.
 
 ### Research Intern, **Shanghai AI Lab** *(May 2024 – Aug 2024)*
