@@ -48,11 +48,11 @@ Dian Jin earned his Ph.D. from the Department of Electrical and Computer Enginee
 
 - **[One-shot Robust Federated Learning of ICA](https://arxiv.org/abs/2505.20532)**<br>
   *Joint work with Xin Bing and Yuqian Zhang.*<br>
-  *(Shorter version submitted to NeurIPS 2025)*
+  *(Shorter version submitted to NeurIPS 2026)*
 
 - **[Cost-optimal Sequential Testing via Doubly Robust Q-learning](https://arxiv.org/abs/2604.11165v2)**<br>
   *Joint work with Doudou Zhou, Yiran Zhang, Yingye Zheng, Lu Tian, Tianxi Cai.*<br>
-  *(Submitted to Biometrika)*
+  *(Submitted to JRSSB)*
 
 ---
 
