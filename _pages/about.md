@@ -54,7 +54,9 @@ Dian Jin earned his Ph.D. from the Department of Electrical and Computer Enginee
   *Joint work with Doudou Zhou, Yiran Zhang, Yingye Zheng, Lu Tian, Tianxi Cai.*<br>
   *(Submitted to JRSSB)*
   
-- **[Local Maxima of the Entrywise $\ell_4$ Norm on the Orthogonal Group](https://drive.google.com/file/d/13pNeVx2c6yksxX8fCUXmxdtYq0AOO13r/view?usp=sharing)**<br>
+- **[Local Maxima of the Entrywise $\ell_4$ Norm on the Orthogonal Group](/files/local-maxima-entrywise-l4-orthogonal-group.pdf)**<br>
+  *Dian Jin.*<br>
+  *(Preprint, 2026)*
 
 ---
 
