@@ -53,7 +53,8 @@ Dian Jin earned his Ph.D. from the Department of Electrical and Computer Enginee
 - **[Cost-optimal Sequential Testing via Doubly Robust Q-learning](https://arxiv.org/abs/2604.11165v2)**<br>
   *Joint work with Doudou Zhou, Yiran Zhang, Yingye Zheng, Lu Tian, Tianxi Cai.*<br>
   *(Submitted to JRSSB)*
-
+  
+- **[Local Maxima of the Entrywise $\ell_4$ Norm on the Orthogonal Group]
 ---
 
 ## 💼 Industry Experience
