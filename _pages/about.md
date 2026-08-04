@@ -58,6 +58,10 @@ Dian Jin earned his Ph.D. from the Department of Electrical and Computer Enginee
   *Joint work with OpenAI GPT 5.6 sol.*<br>
   *(Preprint, 2026)*
 
+- **[Personalizing Large Language Model Agents with Small Policy Models](https://arxiv.org/abs/2608.00215)**<br>
+  *Joint work with Zhi Zhang, Huichao Li, Yihe Pan, Rundong Huang, and Doudou Zhou.*<br>
+  *(arXiv preprint, 2026)*
+
 ---
 
 ## 💼 Industry Experience
