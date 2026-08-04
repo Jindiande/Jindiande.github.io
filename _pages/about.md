@@ -60,7 +60,7 @@ Dian Jin earned his Ph.D. from the Department of Electrical and Computer Enginee
 
 - **[Personalizing Large Language Model Agents with Small Policy Models](https://arxiv.org/abs/2608.00215)**<br>
   *Joint work with Zhi Zhang, Huichao Li, Yihe Pan, Rundong Huang, and Doudou Zhou.*<br>
-  *(arXiv preprint, 2026)*
+  *(Submitted to AAAI 2027)*
 
 ---
 
