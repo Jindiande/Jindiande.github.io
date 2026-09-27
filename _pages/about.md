@@ -46,7 +46,7 @@ Dian Jin earned his Ph.D. from the Department of Electrical and Computer Enginee
   *Joint work with Qiaosheng Zhang and Yuqian Zhang.*<br>
   *(Shorter version accepted at ISIT 2025)*
 
-- **[One-shot Robust Federated Learning of ICA](https://arxiv.org/abs/2505.20532)**<br>
+- **[Federated Independent Component Analysis via Spectral Alignment and Robust Aggregation](https://arxiv.org/abs/2505.20532)**<br>
   *Joint work with Xin Bing and Yuqian Zhang.*<br>
   *(Shorter version submitted to NeurIPS 2026)*
 
