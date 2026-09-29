@@ -48,7 +48,7 @@ Dian Jin earned his Ph.D. from the Department of Electrical and Computer Enginee
 
 - **[Federated Independent Component Analysis via Spectral Alignment and Robust Aggregation](https://arxiv.org/abs/2505.20532)**<br>
   *Joint work with Xin Bing and Yuqian Zhang.*<br>
-  *(Shorter version submitted to NeurIPS 2026)*
+  *(Submitted to JRSSB)*
 
 - **[Cost-optimal Sequential Testing via Doubly Robust Q-learning](https://arxiv.org/abs/2604.11165v2)**<br>
   *Joint work with Doudou Zhou, Yiran Zhang, Yingye Zheng, Lu Tian, Tianxi Cai.*<br>
